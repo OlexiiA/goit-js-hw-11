@@ -6,5 +6,6 @@ async function getData(data, page) {
   );
   return apiData;
 }
-
 export default { getData };
+
+

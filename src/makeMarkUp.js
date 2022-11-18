@@ -33,4 +33,5 @@ export function makeMarkUp(data, container) {
     )
     .join('');
   container.insertAdjacentHTML('beforeend', markUp);
+  
 }

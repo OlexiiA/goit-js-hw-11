@@ -37,6 +37,7 @@ function onSubmit(e) {
   });
 }
 
+
 let lightbox = new SimpleLightbox('.gallery a');
 
 const observer = new IntersectionObserver((entries, observer) => {
@@ -58,3 +59,10 @@ const observer = new IntersectionObserver((entries, observer) => {
     }
   });
 });
+
+
+
+
+
+
+
